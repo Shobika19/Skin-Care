@@ -1,0 +1,11 @@
+.navbar-brand{
+ 
+    font-weight: bolder;
+    
+}
+.nav-item:hover{
+text-decoration: underline;
+text-decoration-color:brown;
+
+
+}
